@@ -112,7 +112,7 @@ Vue 3 · uni-app · NestJS · Prisma · MySQL · Redis
 
 ### 写作 / Writing
 
-在 [ucnacdx2.github.io](https://ucnacdx2.github.io) 记录踩坑，共 17 篇，主要是协议逆向、状态机切分和真实故障复盘：
+在 [ucnacdx2.github.io](https://ucnacdx2.github.io) 记录踩坑，主要是协议逆向、状态机切分和真实故障复盘：
 
 - [OpenList 139 云盘鉴权重构：我到底改了哪四个文件](https://ucnacdx2.github.io/blog/openlist-139-driver-debugging/)
 - [SingBox KTV 从 Demo 到 0.9.12：状态、解析、播放和 Android 系统边界](https://ucnacdx2.github.io/blog/singbox-ktv-architecture/)
